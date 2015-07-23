@@ -1,4 +1,4 @@
-Docker Chat
+Docker hack.chat
 ===========
 
 A mininal distraction-free chat application
